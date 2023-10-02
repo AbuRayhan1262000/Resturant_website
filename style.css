@@ -108,6 +108,26 @@ font-family: 'Satisfy', cursive;*/
   .banner-content .btn:hover{
     transform:scale(1.2);
   }
+  /*banner ends*/
+  /*about section starts*/
+  #about-us{
+   padding:10px;
+  }
+  .about-us-content{
+    text-align: center;
+  }
+  .about-us-content h3{
+    margin-bottom:6px;
+    font-weight:bolder;
+    font-size:20px;
+
+  }
+  .about-us-content p{
+    font-size:15px;
+    margin-bottom:10px;
+  }
+  /*about section ends*/
+
 
 
 
