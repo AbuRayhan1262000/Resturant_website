@@ -127,6 +127,37 @@ font-family: 'Satisfy', cursive;*/
     margin-bottom:10px;
   }
   /*about section ends*/
+  /*food menu starts*/
+  .food-menu-section{
+    padding:1%;
+  }
+  .card-content{
+    text-align:center;
+  }
+  .card-content img{
+    max-width:100%;
+   display:block;
+  }
+  .item-description{
+    background:rgb(150,150,150);
+  }
+  .item-name{
+    color:white;
+    background:blueviolet;
+    padding:10px;
+    font-size:20px;
+  }
+  .item-description >p{
+    font-size:18px;
+    font-weight: bold;
+    padding:8px;
+  }
+  .card{
+    transition:0.4s;
+  }
+  .card:hover{
+    transform:scale(1.1);
+  }
 
 
 
@@ -186,6 +217,7 @@ font-family: 'Satisfy', cursive;*/
         text-decoration:underline;
         border-radius: 0;
     }
+    
     .col-lg-1 {width: 8.33%;}
     .col-lg-2 {width: 16.66%;}
     .col-lg-3 {width: 25%;}
